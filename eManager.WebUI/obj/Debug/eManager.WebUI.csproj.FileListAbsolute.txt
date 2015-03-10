@@ -83,3 +83,7 @@ E:\SourceTree Projects\eManager\eManager.WebUI\bin\zh-Hans\System.Spatial.resour
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\zh-Hant\System.Spatial.resources.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\obj\Debug\eManager.WebUI.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\obj\Debug\eManager.WebUI.pdb
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\StructureMap.dll
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\WebActivator.dll
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\StructureMap.pdb
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\StructureMap.xml
