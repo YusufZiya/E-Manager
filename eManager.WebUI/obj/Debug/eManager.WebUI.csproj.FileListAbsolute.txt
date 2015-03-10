@@ -1,3 +1,4 @@
+E:\SourceTree Projects\eManager\eManager.WebUI\obj\Debug\eManager.WebUI.csprojResolveAssemblyReference.cache
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\eManager.WebUI.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\eManager.WebUI.pdb
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\Antlr3.Runtime.dll
@@ -7,6 +8,7 @@ E:\SourceTree Projects\eManager\eManager.WebUI\bin\DotNetOpenAuth.OAuth.Consumer
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\DotNetOpenAuth.OAuth.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\DotNetOpenAuth.OpenId.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\eManager.Domain.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\EntityFramework.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\Microsoft.Data.Edm.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\Microsoft.Data.OData.dll
@@ -28,6 +30,7 @@ E:\SourceTree Projects\eManager\eManager.WebUI\bin\System.Web.WebPages.Razor.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\WebGrease.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\WebMatrix.Data.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\WebMatrix.WebData.dll
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\eManager.Domain.pdb
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\EntityFramework.xml
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\Newtonsoft.Json.xml
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\System.Net.Http.xml
@@ -78,6 +81,5 @@ E:\SourceTree Projects\eManager\eManager.WebUI\bin\ko\System.Spatial.resources.d
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\ru\System.Spatial.resources.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\zh-Hans\System.Spatial.resources.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\zh-Hant\System.Spatial.resources.dll
-E:\SourceTree Projects\eManager\eManager.WebUI\obj\Debug\eManager.WebUI.csprojResolveAssemblyReference.cache
 E:\SourceTree Projects\eManager\eManager.WebUI\obj\Debug\eManager.WebUI.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\obj\Debug\eManager.WebUI.pdb
