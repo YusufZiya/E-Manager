@@ -33,5 +33,10 @@ namespace eManager.WebUI.Infrastructure
             }
 
         }
+
+        public void Save()
+        {
+            SaveChanges();
+        }
     }
 }

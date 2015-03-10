@@ -4,18 +4,10 @@
     ViewBag.Title = "Detail";
 }
 
-<h2>Department Detail</h2>
+<h2>@Model.Name</h2>
 
-<fieldset>
-    <legend>Department</legend>
+@Html.ActionLink("Create an Employee", "Create", "Employee", new { DepartmentId = Model.Id }, null)
 
-    <div class="display-label">
-        @Html.DisplayNameFor(model => model.Name)
-    </div>
-    <div class="display-field">
-        @Html.DisplayFor(model => model.Name)
-    </div>
-</fieldset>
 <table>
     <tr>
         <th>Name</th>
@@ -25,6 +17,7 @@
     {
         <tr>
             <td>@employee.Name</td>
+            <td></td>
         </tr>
     }
 </table>
