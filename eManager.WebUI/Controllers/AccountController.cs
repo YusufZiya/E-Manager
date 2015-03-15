@@ -8,6 +8,7 @@ using System.Web.Security;
 using DotNetOpenAuth.AspNet;
 using Microsoft.Web.WebPages.OAuth;
 using WebMatrix.WebData;
+using eManager.WebUI.Models;
 
 namespace eManager.WebUI.Controllers
 {
@@ -31,23 +32,25 @@ namespace eManager.WebUI.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
-        //public ActionResult Login(LoginModel model, string returnUrl)
-        //{
-        //    if (ModelState.IsValid && WebSecurity.Login(model.UserName, model.Password, persistCookie: model.RememberMe))
-        //    {
-        //        return RedirectToLocal(returnUrl);
-        //    }
+        public ActionResult Login(LoginModel model)
+        {
+            //WebSecurity.Login(model.UserName, model.Password, persistCookie: model.RememberMe)
+            if (ModelState.IsValid &&  Membership.ValidateUser(model.UserName,model.Password))
+            {
 
-        //    // If we got this far, something failed, redisplay form
-        //    ModelState.AddModelError("", "The user name or password provided is incorrect.");
-        //    return View(model);
-        //}
+                return RedirectToAction("Index", "Home");
+            }
+
+            // If we got this far, something failed, redisplay form
+            ModelState.AddModelError("", "The user name or password provided is incorrect.");
+            return View(model);
+        }
 
         //
         // POST: /Account/LogOff
 
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult LogOff()
         {
             WebSecurity.Logout();

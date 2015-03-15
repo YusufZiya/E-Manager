@@ -8,6 +8,7 @@ using eManager.Domain;
 
 namespace eManager.WebUI.Controllers
 {
+    [Authorize(Roles="Admin")]
     public class EmployeeController : Controller
     {
         private readonly IDepartmentDataSource _db;

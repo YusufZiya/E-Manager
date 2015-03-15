@@ -87,3 +87,7 @@ E:\SourceTree Projects\eManager\eManager.WebUI\bin\StructureMap.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\WebActivator.dll
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\StructureMap.pdb
 E:\SourceTree Projects\eManager\eManager.WebUI\bin\StructureMap.xml
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\EntityFramework.SqlServer.dll
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\System.Web.Providers.dll
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\EntityFramework.SqlServer.xml
+E:\SourceTree Projects\eManager\eManager.WebUI\bin\System.Web.Providers.xml
