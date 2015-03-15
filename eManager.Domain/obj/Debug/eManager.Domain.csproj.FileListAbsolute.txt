@@ -2,4 +2,3 @@ E:\SourceTree Projects\eManager\eManager.Domain\bin\Debug\eManager.Domain.dll
 E:\SourceTree Projects\eManager\eManager.Domain\bin\Debug\eManager.Domain.pdb
 E:\SourceTree Projects\eManager\eManager.Domain\obj\Debug\eManager.Domain.dll
 E:\SourceTree Projects\eManager\eManager.Domain\obj\Debug\eManager.Domain.pdb
-E:\SourceTree Projects\eManager\eManager.Domain\obj\Debug\eManager.Domain.csprojResolveAssemblyReference.cache
