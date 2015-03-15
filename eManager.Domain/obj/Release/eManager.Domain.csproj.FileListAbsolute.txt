@@ -1,0 +1,4 @@
+E:\SourceTree Projects\eManager\eManager.Domain\bin\Release\eManager.Domain.dll
+E:\SourceTree Projects\eManager\eManager.Domain\bin\Release\eManager.Domain.pdb
+E:\SourceTree Projects\eManager\eManager.Domain\obj\Release\eManager.Domain.dll
+E:\SourceTree Projects\eManager\eManager.Domain\obj\Release\eManager.Domain.pdb
